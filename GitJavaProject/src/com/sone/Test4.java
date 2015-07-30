@@ -1,6 +1,6 @@
 package com.sone;
 
-public class Test {
+public class Test4 {
 
 	/**
 	 * @param args
